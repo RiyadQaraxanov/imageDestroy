@@ -1,0 +1,2 @@
+# imageDestroy
+Just for fun :)
